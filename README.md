@@ -1,7 +1,7 @@
 # Engagement Confidentialit Booxy
 
-Je soussigné/e Monsieur Ali AZZOUG , exerçant les fonctions de co-dérigeant et responsable technique au sein de l'entreprise Booxy,
-étant à ce titre amené/e à accéder à des données à caractère personnel, déclare reconnaître la confidentialité desdites données.
+Je soussigné/e Monsieur Ali AZZOUG , exerçant les fonctions de co-dirigeant et responsable technique au sein de l'entreprise Booxy,
+étant à ce titre amené à accéder à des données à caractère personnel, déclare reconnaître la confidentialité des dites données.
 Je m’engage par conséquent, conformément aux articles 34 et 35 de la loi du 6 janvier 1978 modifiée relative à
 l’informatique, aux fichiers et aux libertés ainsi qu’aux articles 32 à 35 du règlement général sur la protection des
 données du 27 avril 2016, à prendre toutes précautions conformes aux usages et à l’état de l’art dans le cadre de
